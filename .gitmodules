@@ -1,0 +1,3 @@
+[submodule "module/build_creator_test_module1"]
+	path = module/build_creator_test_module1
+	url = git@github.com:cangursu-aizona/build_creator_test_module1.git
